@@ -1,0 +1,26 @@
+.container {
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid blue;
+}
+
+.input-wrapper {
+    display: flex;
+    width: 100%;
+   
+}
+
+input {
+    padding: 20px 15px;
+    font-size: 30px;  
+    outline: none;
+}
+
+button {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+ul {
+    font-size: 25px;
+}
